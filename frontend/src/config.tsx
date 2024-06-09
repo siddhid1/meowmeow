@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://myapp.zedwow7.workers.dev" 
